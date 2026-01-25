@@ -1,5 +1,4 @@
 # Syntecxhub-FileOrganizerScript
-A Python automation script that organizes files into folders based on file extensions, developed as Week 2 internship task.
 
 ## Internship Task – Week 2
 This project is a Python-based file organizer script developed as part of **Week 2 internship task**.  
@@ -60,7 +59,7 @@ python file_organizer.py --dry-run
   All files are safely preserved
   The file organization process runs smoothly without errors
 ---
-## Output Screenshots
+## Sample Outputs
 ### Dry Run Preview
 ![Dry Run Output](assets/dry-run-output.jpg)
 
