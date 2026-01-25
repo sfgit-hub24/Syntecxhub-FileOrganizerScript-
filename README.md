@@ -60,11 +60,16 @@ python file_organizer.py --dry-run
   All files are safely preserved
   The file organization process runs smoothly without errors
 ---
-## Technologies Used
-- Python 3
-- os module
-- shutil module
-- logging module
+## Output Screenshots
+### Dry Run Preview
+![Dry Run Output](assets/dry-run-output.jpg)
+
+### Log File Data
+![Folder Structure](assets/log-output.jpg)
+
+### Script Files Movement
+![Script Files Movement](assets/script-files-movement-output.jpg)
+
 ---
 ## Author
 Safa Fatima
