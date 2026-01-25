@@ -21,7 +21,7 @@ The script scans a directory and automatically organizes files into subfolders b
 ## How to Run
 1. Clone the repository or download the ZIP:
 ```bash
-git clone https://github.com/your-username/python-file-organizer.git
+git clone https://github.com/sfgit-hub24/python-file-organizer.git
 ```
 2. Navigate to the Source Folder:
 cd python-file-organizer/src
