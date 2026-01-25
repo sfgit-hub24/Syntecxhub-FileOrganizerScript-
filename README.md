@@ -73,6 +73,6 @@ python file_organizer.py --dry-run
 ## Author
 Safa Fatima
 2nd Year CSE Student
----
+
 Internship Task 2 Submission 
 ---
