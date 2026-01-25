@@ -17,7 +17,7 @@ The script scans a directory and automatically organizes files into subfolders b
 - os module
 - shutil module
 - logging module
----
+--- 
 ## How to Run
 1. Clone the repository or download the ZIP:
 ```bash
