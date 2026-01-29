@@ -40,7 +40,7 @@ python file_organizer.py --dry-run
   Tracking file operations
   Debugging issues
   Verifying successful execution
-# Naming Handling Collision
+# Name Handling Collision
 - The script checks if a file with the same name already exists
 - If a collision is detected, it automatically renames the file by appending a counter or timestamp
  - Example:
