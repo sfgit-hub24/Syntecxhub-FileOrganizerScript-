@@ -69,6 +69,8 @@ python file_organizer.py --dry-run
 ### Script Files Movement
 ![Script Files Movement](assets/script-files-movement-output.jpg)
 
+## File Organizer Demo
+[File Organizer Demonstration](assets/file_organizer_demo.mp4)
 ---
 ## Author
 Safa Fatima
