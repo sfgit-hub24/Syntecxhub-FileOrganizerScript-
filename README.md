@@ -28,13 +28,6 @@ cd python-file-organizer/src
 python file_organizer.py
 4. The script will organize files in the specified directory based on their extensions
 ---
-## Features
-- Organizes files into folders based on file extension
-- Supports dry-run mode (no files are moved)
-- Handles name collisions safely
-- Logs all file movements
-- Works on Windows and Linux
----
 # Dry Run Mode
 Dry-run mode shows what files *would* be moved without actually moving them.
 ```bash
