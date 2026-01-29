@@ -70,7 +70,7 @@ python file_organizer.py --dry-run
 ![Script Files Movement](assets/script-files-movement-output.jpg)
 
 ## File Organizer Demo
-[File Organizer Demonstration](assets/file_organizer_demo.mp4)
+[File Organizer Demonstration](https://drive.google.com/file/d/1myO6Sgyt1ci_U3cStGj5dJE8LuO-ML9G/view?usp=drivesdk)
 ---
 ## Author
 Safa Fatima
